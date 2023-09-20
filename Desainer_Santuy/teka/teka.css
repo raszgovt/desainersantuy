@@ -1,0 +1,27 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Montserrat';
+}
+
+header h1 {
+    text-align: center;
+    padding: 24px;
+    color: #4783b5;
+}
+
+.banner {
+    height: 150px;
+    background-color: #b1e0e6;
+    padding: 50px 100px;
+}
+p{
+    color: #4783b5;
+    padding: 5px;
+}
+h2{
+    text-align: center;
+    padding: 20px;
+    color: #4783b5;
+}
+
